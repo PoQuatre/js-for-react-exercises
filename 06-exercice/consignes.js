@@ -3,5 +3,8 @@
  */
 
 // Write your code here
-const helloWorld = () => console.log("Hello World");
+const helloWorld = function () {
+  console.log("Hello World");
+};
+
 helloWorld();
